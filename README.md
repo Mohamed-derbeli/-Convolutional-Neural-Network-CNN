@@ -8,7 +8,8 @@ of the nodes.Regularization coefficient is so high -----> some of the weight mat
 linear network and slight underfitting of the training data.
 
 #  Regularization Techniques in Deep Learning: 
-##L2 & L1 regularization: 
+
+## L2 & L1 regularization: 
 
 L1 and L2 are the most common types of regularization. These update the general cost function by adding another term known
                         # as the regularization term. ''Cost function = Loss (say, binary cross entropy) + Regularization term''
