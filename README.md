@@ -1,8 +1,7 @@
 
 # Regularization 
 
--Regularization help reduce Overfitting
--Regularization is a technique which makes slight modifications to the learning algorithm such that the model generalizes better. This in turn 
+-Regularization help reduce Overfitting. It is a technique which makes slight modifications to the learning algorithm such that the model generalizes better. This in turn 
 improves the model’s performance on the unseen data as well. Regularization penalizes the coefficients. it actually penalizes the weight matrices 
 of the nodes.Regularization coefficient is so high -----> some of the weight matrices are nearly equal to zero----> result in a much simpler 
 linear network and slight underfitting of the training data.
